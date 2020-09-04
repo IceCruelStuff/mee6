@@ -6,4 +6,4 @@ gevent
 pymongo
 paypalrestsdk
 setproctitle
-git+https://github.com/mee6/mee6.git
+git+https://github.com/cookkkie/mee6.git
